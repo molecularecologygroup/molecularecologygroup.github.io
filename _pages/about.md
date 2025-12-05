@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.iisermohali.ac.in/'>IISER Mohali</a>
 
 profile:
   align: right
@@ -27,7 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome! We are the molecular ecology lab at IISER Mohali. Led by Dr Kritika Garg, our lab sits at the interface of conservation biology, evolutionary biology, and genomics. We use the latter to understand how fauna has evolved over the past few million years (often using historical and museum samples), and how this can be used to inform their conservation.
+
+
+
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
