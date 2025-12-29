@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true
   more_info: >
+    <p>Dr Kritika M Garg</p>
     <p>5F5, Academic Building 1</p>
     <p>IISER Mohali</p>
 
