@@ -1,0 +1,1 @@
+Rishi is a 4th year biology major at IISER Mohali. He is broadly interested in ecology, evolution and ethology. He is working with Vikram in the lab to analyse publicly available eBird datasets to look at how community composition varies spatiotemporally at various sites of interest across Delhi-NCR.
