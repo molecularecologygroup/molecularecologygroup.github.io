@@ -18,7 +18,7 @@ profiles:
 
   - align: left
     image: Durbadal.jpg
-    content: about_einstein.md
+    content: about_durbadal.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>PhD Student</p>
