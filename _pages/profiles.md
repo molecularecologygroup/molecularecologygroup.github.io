@@ -31,6 +31,13 @@ profiles:
       <p>PhD Student</p>
 
   - align: left
+    image: Geetika.jpg
+    content: about_geetika.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>PhD Student</p>
+
+  - align: left
     image: Atri.jpg
     content: about_atri.md
     image_circular: true # crops the image to make it circular
@@ -40,6 +47,11 @@ profiles:
   - align: left
     image: Rishi.jpg
     content: about_rishi.md
+    image_circular: true # crops the image to make it circular
+
+  - align: left
+    image: Aman.jpg
+    content: about_aman.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Lab Intern</p>
