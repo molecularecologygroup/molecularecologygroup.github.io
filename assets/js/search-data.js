@@ -9,19 +9,26 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-cv",
-          title: "CV",
-          description: "Dr Kritika&#39;s Curriculum Vitae.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/CV/";
-          },
-        },{id: "nav-people",
+  },{id: "nav-people",
           title: "People",
           description: "lab group members",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
+          },
+        },{id: "nav-publications",
+          title: "Publications",
+          description: "Dr Kritika&#39;s publications.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/Publications/";
+          },
+        },{id: "nav-cv",
+          title: "CV",
+          description: "Dr Kritika&#39;s Curriculum Vitae.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/CV/";
           },
         },{id: "post-a-post-with-plotly-js",
         
