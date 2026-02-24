@@ -2,7 +2,6 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Dr Kritika's publications.
 nav: true
 nav_order: 4
 ---
