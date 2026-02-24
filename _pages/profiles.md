@@ -48,6 +48,8 @@ profiles:
     image: Rishi.jpg
     content: about_rishi.md
     image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Lab Intern</p>
 
   - align: left
     image: Aman.jpg
