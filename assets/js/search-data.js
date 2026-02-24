@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-publications",
           title: "Publications",
-          description: "Dr Kritika&#39;s publications.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
