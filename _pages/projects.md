@@ -2,8 +2,9 @@
 layout: page
 title: Projects
 nav: true
-permalink: /Projects/
+permalink: /projects/
 nav_order: 3
+---
 
 # Ongoing projects
 
