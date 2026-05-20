@@ -27,8 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome! We are the molecular ecology lab at the Indian Institute of Science Education and Research (IISER), Mohali. Led by Dr Kritika M Garg, our lab sits at the interface of conservation biology, evolutionary biology, and genomics. We use the latter to understand how fauna has evolved over the past few million years (often using historical museum samples), and how this can be used to inform their conservation.
+Welcome! We are the molecular ecology lab at the Indian Institute of Science Education and Research (IISER), Mohali. Led by Dr Kritika M Garg, our lab is at the confluence of conservation biology, evolutionary biology, and genomics. We use the latter to understand how fauna has evolved over the past few million years (often using historical museum samples), and how this can be used to inform their conservation.
 
+If you would like to join our group, please write to Dr Kritika at kritikamgarg(at)iisermohali(dot)ac(dot)in .
 
 
 <!--
