@@ -7,7 +7,7 @@ subtitle: <a href='https://www.iisermohali.ac.in/'>IISER Mohali</a>
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true
+  image_circular: false
   more_info: >
     <p>Dr Kritika M. Garg</p>
     <p>5F5, Academic Building 1</p>
